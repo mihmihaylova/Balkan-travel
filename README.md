@@ -1,4 +1,4 @@
-[Balkan Travel.pdf](https://github.com/user-attachments/files/18816052/Balkan.Travel.pdf)# ✈️ Group Project: BALKAN TRAVEL  
+# ✈️ Group Project: BALKAN TRAVEL  
 **Developed by:** Mihaela Dilyanova Mihaylova & Team  
 **Category:** Flight Booking & Travel Management  
 **My Role:** Frontend Developer  
@@ -29,4 +29,4 @@ As the **Frontend Developer**, I was responsible for:
 
 
 ## 🎥 Demo & Screenshots  
-🔗 [Uploading Balkan Travel.pdf…]()
+🔗 [Balkan Travel.pdf](https://github.com/user-attachments/files/18816052/Balkan.Travel.pdf)
