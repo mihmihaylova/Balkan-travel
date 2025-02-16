@@ -22,7 +22,6 @@ As the **Frontend Developer**, I was responsible for:
 ## 📖 How to Use  
 1️⃣ **Search for flights** – Enter departure and destination points  
 2️⃣ **Select your flight** – Choose from available options  
-
 3️⃣ **Enter passenger details** – Provide necessary travel information  
 4️⃣ **Make payment** – Securely complete your booking  
 5️⃣ **Receive confirmation** – Get a digital ticket and flight details  
